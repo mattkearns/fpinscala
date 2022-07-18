@@ -1,3 +1,10 @@
 *.class
 *.log
+project/*
 target/*
+.bloop
+.bsp
+.idea
+.metals
+.vscode
+.trash
